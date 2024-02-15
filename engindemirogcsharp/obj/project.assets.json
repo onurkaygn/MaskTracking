@@ -3059,9 +3059,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\onura\\Desktop\\EnginDemirogC#\\engindemirogcsharp\\engindemirogcsharp\\engindemirogcsharp.csproj",
-      "projectName": "engindemirogcsharp",
-      "projectPath": "C:\\Users\\onura\\Desktop\\EnginDemirogC#\\engindemirogcsharp\\engindemirogcsharp\\engindemirogcsharp.csproj",
+      "projectUniqueName": "C:\\Users\\onura\\Desktop\\EnginDemirogC#\\engindemirogcsharp\\engindemirogcsharp\\Workspace.csproj",
+      "projectName": "Workspace",
+      "projectPath": "C:\\Users\\onura\\Desktop\\EnginDemirogC#\\engindemirogcsharp\\engindemirogcsharp\\Workspace.csproj",
       "packagesPath": "C:\\Users\\onura\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\onura\\Desktop\\EnginDemirogC#\\engindemirogcsharp\\engindemirogcsharp\\obj\\",
       "projectStyle": "PackageReference",

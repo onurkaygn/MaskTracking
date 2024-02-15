@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t4gsnJLwqBusIUsicf0zDmTmKtP0OJ3FjKQACnpJBNFdi1ltZ+18gRzBn+ZvwWjDgyjc5AmVybzqjwx5V+YWvw==",
+  "dgSpecHash": "4zmVvD52inpO+S+Y1pYcX3FyLNX2aBL6MWhv3JKXFKE0UmrdV/S6zHRwS0AGVxyCdXBmyxonMTrBsZR05WWPtw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\onura\\Desktop\\EnginDemirogC#\\engindemirogcsharp\\engindemirogcsharp\\engindemirogcsharp.csproj",
+  "projectFilePath": "C:\\Users\\onura\\Desktop\\EnginDemirogC#\\engindemirogcsharp\\engindemirogcsharp\\Workspace.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\onura\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\onura\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
